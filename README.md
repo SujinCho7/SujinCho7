@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Engineering Operations Manager with 5+ years, transitioning into software engineering.  
+💻 Full stack development:
+Languages: Python, JavaScript, TypeScript
+Frontend: React.js, HTML/CSS
+Backend: PostgreSQL, Express, Node.js
