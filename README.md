@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 👋 Engineering Operations Manager with 5+ years, transitioning into software engineering.  
 💻 Full stack development: </br>
-Languages: Python, JavaScript, TypeScript </br>
-Frontend: React.js, HTML/CSS </br>
-Backend: PostgreSQL, Express, Node.js
+> Languages: Python, JavaScript, TypeScript </br>
+> Frontend: React.js, HTML/CSS </br>
+> Backend: PostgreSQL, Express, Node.js
