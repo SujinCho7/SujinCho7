@@ -1,5 +1,4 @@
-### 👋 About Me
----
+## 👋 About Me
 <!--
 **SujinCho7/SujinCho7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +15,10 @@ Here are some ideas to get you started:
 -->
 🔍 Engineering Operations Manager with 5+ years, transitioning into software engineering.  
 
-### 🌐 Socials: Connect with me
----
+## 🌐 Socials: Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sujin-cho-106365153/)
 
-### 💻 Tech Stack:
----
+## 💻 Tech Stack:
 #### Languages:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
